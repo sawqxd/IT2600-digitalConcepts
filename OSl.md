@@ -20,6 +20,7 @@ The presentation layer is the 6th layer in the OSI model. It is in the host laye
 The session layer is the 5th layer in the OSI model. It is in the host layer and part of the data Protocol Data Unit (PDU). The function is managing communication sessions like continuous exchange of information in the form of multiple back-and-forth transmission between two nodes. Examples include RPC, PAP
 
 #### Transport
+The trasnport layer is the 4th layer in the OSI model. It is in the host layer and part of the Segment Datagram Protocol Data Unit (PDU). It provides transparent transfer of data between end systems, or hosts, and it is responsible for end to end recovery and flow control. It ensures complete data transfer. Examples incldue SPX, TCP, UDP.
 
 #### Network
 
