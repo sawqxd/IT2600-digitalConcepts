@@ -23,6 +23,8 @@ The session layer is the 5th layer in the OSI model. It is in the host layer and
 The trasnport layer is the 4th layer in the OSI model. It is in the host layer and part of the Segment Datagram Protocol Data Unit (PDU). It provides transparent transfer of data between end systems, or hosts, and it is responsible for end to end recovery and flow control. It ensures complete data transfer. Examples incldue SPX, TCP, UDP.
 
 #### Network
+The network layer is the 3rd layer in the OSI model. It is part of the media layer and the Packet Protocol Data Unit (PDU). The function of the network layer is structuing and managing a mutli-node network, including addressing, routing, and traffic control.
+
 
 #### Data Link
 
