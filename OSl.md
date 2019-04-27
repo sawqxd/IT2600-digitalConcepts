@@ -25,7 +25,8 @@ The trasnport layer is the 4th layer in the OSI model. It is in the host layer a
 #### Network
 The network layer is the 3rd layer in the OSI model. It is part of the media layer and the Packet Protocol Data Unit (PDU). The function of the network layer is structuing and managing a mutli-node network, including addressing, routing, and traffic control.
 
-
 #### Data Link
+The data link layer is the 2nd layer in the OSI model. It is part of the media layer and the Frame layer in the Protocol Data Unit (PDU). Its functions are reliable transmission of data frames between two notes connected by a physical layer. It also handles error correction from the physical layer. Switches mostly operate here. 
 
 #### Physical
+This physical layer is the 1st layer in the OSI model. It is part of the media layer and the Symbol PDU. Its functions arae transmission and reception of raw bit streams over a physical medium. This can include everything from the cable type, radio frequency link, as well as the layout of pins, voltages and other physical requirements.
