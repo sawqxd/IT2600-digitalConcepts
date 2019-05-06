@@ -49,3 +49,7 @@ Watch: [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI)
 Watch: [OSI Explained in 2 minutes](https://www.youtube.com/watch?v=A_3wBgfVDZo)  
 Read: <a href="https://www.networkworld.com/article/3239677/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html" target="_blank">The OSI Model Explained</a>  
 Read: <a href="https://www.geeksforgeeks.org/layers-osi-model/" target="_blank">Computer Network | Layers of OSI Model</a>  
+
+### Quiz
+Now that you have an understanding of how the OSI model opperates, it is time to quiz yourself. 
+[OSI Model Quiz](http://www.funtrivia.com/playquiz/quiz2696101ede0b8.html)
