@@ -1,6 +1,6 @@
-> Title: Open Systems Interconnection
-> Author: Sarah Wooldridge
-> Brief Summary: The purpose and content of this tutorial is to educate the reader on the Open Systems Interconnection or OSI for short. Listed below is what the OSI does, a breif history, and an explantion of the layers.
+> Title: Open Systems Interconnection  
+> Author: Sarah Wooldridge  
+> Brief Summary: The purpose and content of this tutorial is to educate the reader on the Open Systems Interconnection or OSI for short. Listed below is what the OSI does, a breif history, and an explantion of the layers.  
 > Target Audience: The target audience of this tutorial is those interested in the topic of OSI. This content is suitable for those with some background information of computer science or information technology. 
 
 
