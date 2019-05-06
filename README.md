@@ -36,16 +36,16 @@ The data link layer is the 2nd layer in the OSI model. It is part of the media l
 This physical layer is the 1st layer in the OSI model. It is part of the media layer and the Symbol PDU. Its functions arae transmission and reception of raw bit streams over a physical medium. This can include everything from the cable type, radio frequency link, as well as the layout of pins, voltages and other physical requirements. Examples include: Fiber Optics, Radio, Electricity
 
 ### OSI Model Acronym
-7 Away - Application 
-6 Pizza - Presentation
-5 Salami - Session
-4 Throw - Transport
-3 Not - Network
-2 Do - Data Link
-1 Please - Physical
+7 Away - Application   
+6 Pizza - Presentation  
+5 Salami - Session   
+4 Throw - Transport  
+3 Not - Network  
+2 Do - Data Link  
+1 Please - Physical  
 
 ### Userful Links
-Watch: [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI)
-Watch: [OSI Explained in 2 minutes](https://www.youtube.com/watch?v=A_3wBgfVDZo)
-Read: <a href="https://www.networkworld.com/article/3239677/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html" target="_blank">The OSI Model Explained</a>
-Read: <a href="https://www.geeksforgeeks.org/layers-osi-model/" target="_blank">Computer Network | Layers of OSI Model</a>
+Watch: [The OSI Model Demystified](https://www.youtube.com/watch?v=HEEnLZV2wGI)  
+Watch: [OSI Explained in 2 minutes](https://www.youtube.com/watch?v=A_3wBgfVDZo)  
+Read: <a href="https://www.networkworld.com/article/3239677/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html" target="_blank">The OSI Model Explained</a>  
+Read: <a href="https://www.geeksforgeeks.org/layers-osi-model/" target="_blank">Computer Network | Layers of OSI Model</a>  
